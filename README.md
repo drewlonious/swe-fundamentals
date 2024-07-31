@@ -1,1 +1,1 @@
-# swe-fundamentals
+# Software Engineering Fundamentals
